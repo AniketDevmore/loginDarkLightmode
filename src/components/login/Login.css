@@ -1,0 +1,22 @@
+.outerContainer {
+  background-color: #a3efdc;
+  width: 280px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+.btn {
+  background-color: #008a1c;
+  border: none;
+  color: #fff;
+  padding: 7px;
+  border-radius: 7px;
+}
+.btn:hover {
+  background-color: #002407;
+  color: #fff;
+}

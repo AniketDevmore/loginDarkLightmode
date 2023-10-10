@@ -1,0 +1,39 @@
+.landingOuter {
+  height: 100vh;
+}
+.checkbox {
+  width: 50%;
+  margin: auto;
+  padding: 2rem;
+}
+.checkbox > input {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  padding: 5px;
+}
+.checkbox > label {
+  display: inline-block;
+  padding: 5px;
+}
+
+.logout {
+  text-align: right;
+  width: 50%;
+  margin: 0 auto 20px auto;
+}
+
+.list,
+.listUl,
+.listLi {
+  list-style: none;
+}
+.list {
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+}
+.listLi {
+  border: 1px solid #ffea00;
+  padding: 6px;
+}
